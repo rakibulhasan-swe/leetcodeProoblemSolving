@@ -1,1 +1,1 @@
-# Leetcode Problem Solving (Java/C++)
+# LeetCode Problem Solving (Java/C++)
